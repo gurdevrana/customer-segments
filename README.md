@@ -16,9 +16,9 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### File description
 
-`customer_segments.ipynb`:code for machine learning algorithm is provided in this file
-`visuals.py`:used for visualizations
-`customers.csv`: it contains dataset
+`customer_segments.ipynb`:code for machine learning algorithm is provided in this file<br>
+`visuals.py`:used for visualizations<br>
+`customers.csv`: it contains dataset<br>
 
 ### Run
 
